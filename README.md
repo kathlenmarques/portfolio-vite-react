@@ -1,8 +1,9 @@
-# React + Vite
+#  Portfólio com React + Vite 
+Criação de componentes iniciais.
+Utilização de JSX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto para atualização de portfólio. Projto anterior utilizando apenas HTML/CSS/JAVASCRIPT = https://portfolio-puce-xi-31.vercel.app/index.html
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ## Prox. atualizações 
+ - Mudança no design
+ - Adição de pages
