@@ -5,7 +5,7 @@
 - Utilização de JSX
 - CSS 
 
-Projeto para atualização de portfólio. Projto anterior utilizando apenas HTML/CSS/JAVASCRIPT = https://portfolio-puce-xi-31.vercel.app/index.html
+Projeto para atualização de portfólio. Projeto anterior utilizando apenas HTML/CSS/JAVASCRIPT = https://portfolio-puce-xi-31.vercel.app/index.html
 
  ## Prox. atualizações 
  - Mudança no design
