@@ -1,0 +1,26 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+a{
+  text-decoration: none;
+}
+body{
+  background-color: rgb(240, 255, 255);
+}
+p{
+  font-family: poppins;
+}
+ footer a{
+  text-decoration: none;
+  font-family: poppins;
+}

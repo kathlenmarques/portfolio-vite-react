@@ -1,0 +1,57 @@
+.header{
+  background-color: transparent;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 1.2rem;
+  position:relative;
+}
+span{
+  margin-left: 2rem;
+  color: rgb(26, 27, 27);
+  font-weight: 500;
+  font-size: 1rem;
+  font-family: dela gothic one;
+  border-radius: 1rem;
+  padding: 0.4rem;
+  padding-bottom: 0.5rem;
+  background-color: black;
+  color: aliceblue;
+  transition: background-color 300ms ease;
+  cursor: pointer;
+}
+span:hover{
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+}
+nav{
+  margin-right: 2rem;
+}
+nav a{
+  margin-inline: 1rem;
+  text-decoration: none;
+  color: rgb(26, 27, 27);
+  font-weight: 500;
+  padding:0.5rem;
+  transition: background-color 300ms ease;
+  font-family: poppins;
+  font-size: 0.9rem;
+}
+nav a:hover{
+  background-color: rgb(218, 231, 231);
+}
+button{
+  margin-right: 2rem;
+  color: rgb(26, 27, 27);
+  font-weight: 500;
+  font-size: 0.8rem;
+  border-radius: 1rem;
+  padding: 0.4rem;
+  width: 8rem;
+  background-color: black;
+  color: aliceblue;
+  transition: background-color 300ms ease;
+  cursor: pointer;
+  font-family: poppins;
+}
