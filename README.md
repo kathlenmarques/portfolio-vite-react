@@ -1,6 +1,9 @@
 #  Portfólio com React + Vite 
-Criação de componentes iniciais.
-Utilização de JSX
+
+## Primeiro Commit
+- Criação de componentes iniciais.
+- Utilização de JSX
+- CSS 
 
 Projeto para atualização de portfólio. Projto anterior utilizando apenas HTML/CSS/JAVASCRIPT = https://portfolio-puce-xi-31.vercel.app/index.html
 
